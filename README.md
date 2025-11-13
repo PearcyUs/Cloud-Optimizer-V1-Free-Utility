@@ -65,7 +65,7 @@ Sim, mas sempre crie um ponto de restauração antes de aplicar mudanças.
 Use o ponto de restauração ou o botão de restauração de inicialização.
 
 ## Suporte & Comunidade
-- Discord: [https://discord.gg/ptM8XWaN5w] (https://discord.gg/ptM8XWaN5w)
+- Discord: (https://discord.gg/ptM8XWaN5w)
 - YouTube: [Prazer Martinezkr](https://www.youtube.com/@prazerMartinezkr)
 - Canal Amathyzin: [aMathyzin](https://www.youtube.com/@aMathyzin)
 
