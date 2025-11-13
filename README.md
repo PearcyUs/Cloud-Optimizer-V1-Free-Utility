@@ -2,8 +2,6 @@
 # DEV: Martinez
 # Cloud Optimizer v1 Free Utility by Martinez
 
-# Cloud Optimizer
-
 O Cloud Optimizer é uma ferramenta avançada para otimização e monitoramento do Windows, com interface moderna em PyQt6, automações seguras e reversíveis, e painel de desempenho em tempo real.
 
 ## Funcionalidades
