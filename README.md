@@ -112,11 +112,6 @@ Um programa executável completo para otimização e monitoramento do sistema Wi
 - Privilégios de Administrador (obrigatório)
 - .NET Framework (geralmente já instalado)
 
-### Para Desenvolvimento
-- Python 3.8 ou superior
-- pip (gerenciador de pacotes Python)
-
-
 ## Como Usar
 
 ### 1. Executar o Programa
